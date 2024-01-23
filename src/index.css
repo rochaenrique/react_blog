@@ -179,8 +179,7 @@ body {
   margin-top: 1rem;
 }
 
-.newPostForm input[type='text'],
-.textarea {
+.newPostForm input {
   font-family: 'Open Sans', sans-serif;
   width: 100%;
   min-height: 48px;
@@ -192,7 +191,7 @@ body {
 }
 
 .textarea {
-  height: 100px;
+  height: 200px;
 }
 
 .newPostForm button {
